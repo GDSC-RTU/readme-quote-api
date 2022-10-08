@@ -1,0 +1,28 @@
+{
+  "name": "quotier",
+  "version": "1.0.0",
+  "description": "API for Quotes📑 in JSON and rendered SVG form - Use it anywhere on GitHub, Your Website or wherever you like✨",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDSC-RTU/quotier-readme-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDSC-RTU/quotier-readme-quotes/issues"
+  },
+  "homepage": "https://github.com/GDSC-RTU/quotier-readme-quotes#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
