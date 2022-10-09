@@ -14,13 +14,13 @@
 In your GitHub readme
 
 ```markdown
-![QUOTES](https://quotier.vercel.app/quote)
+![QUOTES](https://readme-quote-api.vercel.app//quote)
 ```
 
 In html
 
 ```html
-<img src="https://quotier.vercel.app/quote" alt="Quotes" />
+<img src="https://readme-quote-api.vercel.app/quote" alt="Quotes" />
 ```
 
 ## Endpoints
@@ -55,13 +55,13 @@ node --version
 - Clone this repository by running the following command in your terminal -
 
 ```
-git clone https://github.com/GDSC-RTU/quotier-readme-quote
+git clone https://github.com/GDSC-RTU/readme-quote-api
 ```
 
 - cd into the folder by using the following command -
 
 ```
-cd quotier-readme-quote
+cd readme-quote-api
 ```
 
 - Install the dependencies by running the following command -
