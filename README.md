@@ -14,7 +14,7 @@
 In your GitHub readme
 
 ```markdown
-![QUOTES](https://readme-quote-api.vercel.app//quote)
+![QUOTES](https://readme-quote-api.vercel.app/quote)
 ```
 
 In html
