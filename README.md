@@ -25,6 +25,8 @@ In html
 
 ## Endpoints
 
+**Base URL** - https://readme-quote-api.vercel.app/
+
 | EndPoint         | Returns                                            |
 | ---------------- | -------------------------------------------------- |
 | /                | Hello Page in API                                  |
