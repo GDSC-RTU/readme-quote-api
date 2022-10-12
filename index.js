@@ -12,6 +12,9 @@ const theme = require("./src/themes.json");
 /* ---- Importing Card template ---- */
 const { quoteCard } = require("./src/quoteCard");
 
+/* ---- Importing utility functions ---- */
+const { isValidHexColor } = require("./src/utils");
+
 /* ---- Handling get requests on all routes ----*/
 app.get("/", async (req, res) => {
   res.send(
@@ -40,13 +43,27 @@ app.get("/quote", async (req, res) => {
 
     const quote = `${quoteObject.quote} - ${quoteObject.author}`;
 
+    /* ---- Calculate card parameters based on query values ---- */
+    const textColor = isValidHexColor(query.textColor)
+      ? `#${query.textColor}`
+      : theme.dark.textColor;
+    const bgColor = isValidHexColor(query.bgColor)
+      ? `#${query.bgColor}`
+      : theme.dark.bg;
+    const borderColor = isValidHexColor(query.borderColor)
+      ? `#${query.borderColor}`
+      : theme.dark.borderColor;
+    const hideBorder = query.hideBorder
+      ? query.hideBorder === "true"
+      : theme.dark.hideBorder;
+
     /* ---- Setting up card properties,data---- */
     let card = quoteCard(
-      theme.dark.textColor,
-      theme.dark.bg,
-      theme.dark.border,
+      textColor,
+      bgColor,
+      borderColor,
       quote,
-      theme.dark.hodeBorder
+      hideBorder
     );
 
     /* ----- Sets the type of content sent  ----- */
