@@ -89,3 +89,42 @@ npm run dev
 ```
 localhost:3000
 ```
+
+- Git Commands Listed by Abhishek Nagar-
+
+```
+git log -> for show the commit history
+```
+
+- Branch and Merge-
+
+```
+git branch -> list your branches
+```
+
+- Share and update-
+
+```
+git remote add [alias] [url] -> add a git URL as an alias
+```
+- Temporary Commits-
+
+| Commands         | function                                           |
+| --------------   | --------                                           |
+| `git stash`      | *save modified and staged changes*                 |
+|`git stash list`  | list **stack-order** of stashed file changes       |
+
+```
+Source - Git cheat sheet
+```
+```
+{
+    "quote": Keep Learning! ,
+    "author": Abhishek Nagar ,
+}
+```
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/95569445/195333662-80db3e2f-1134-4577-bff0-9bd8abc5463f.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/95569445/195332647-9768014f-bb36-4bc3-bbe9-72ab470b4928.jpg" width="210" /> 
+  <img src="https://user-images.githubusercontent.com/95569445/195333866-31ad596b-e594-4f65-a6e2-8ee2fff653e7.png" width="400" />
+</p>
