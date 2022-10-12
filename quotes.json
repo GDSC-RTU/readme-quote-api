@@ -1582,7 +1582,7 @@
    {
      "quote": "Never confuse education with intelligence, you can have a PhD and still be an idiot.",
      "author": "Richard Feynman"
-  }
+  },
 {
     "quote": " The purpose of our life is to be happy ",
     "author": "Dalai Lama"
@@ -1618,6 +1618,10 @@
 { 
     "quote": "An eye for an eye will only make the whole world blind.",
     "author": "Mahatma Gandhi"
+},
+{ 
+    "quote": "It is impossible to control creation.",
+    "author": "Evelyn Scott"
 }
 ]
 
