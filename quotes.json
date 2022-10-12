@@ -1571,11 +1571,7 @@
     "quote": "We all make choices, but in the end our choices make us",
     "author": "Andrew Ryan"
   },
-   {
-    "quote": " Life is never fair, and perhaps it is a good thing for most of us that it is not.",
-    "author": "Oscar Wilde"
-  },
-   {
+  {
     "quote": "Somewhere, something incredible is waiting to be known.",
     "author": "Carl Sagan"
   },
@@ -1594,6 +1590,9 @@
  {
     "quote": "In the sweetness of friendship let there be laughter, and sharing of pleasures. For in the dew of little things the heart finds its morning and is refreshed.",
     "author": "Khalil Gibran"
-  }
-
+ },
+{
+    "quote": " Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+    "author": "Oscar Wilde"
+  },
 ]
