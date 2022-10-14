@@ -1619,7 +1619,7 @@
     "quote": "An eye for an eye will only make the whole world blind.",
     "author": "Mahatma Gandhi"
 },
-{ 
+{
     "quote": "Honesty is the best policy.",
     "author": "Benjamin Franklin"
 },
@@ -1634,6 +1634,9 @@
 {
     "quote":"Life is like a box of chocolates. You never know what you’re going to get.",
   "author":"Forrest Gump"
-} 
+} ,
+{    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+}
 ]
 
