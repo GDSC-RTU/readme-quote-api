@@ -1638,9 +1638,13 @@
 {
     "quote":"Life is like a box of chocolates. You never know what you’re going to get.",
   "author":"Forrest Gump"
-} ,
-{    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+},
+{   "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
     "author": "Martin Fowler"
+},
+{
+   "quote": "Every day brings a chance for you to draw in a breath, kick off your shoes, and dance.",
+   "author": "Oprah Winfrey"
 },
 {    "quote": "You do not find the happy life. You make it.",
     "author": "Camilla Eyring Kimball"
