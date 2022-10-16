@@ -9,7 +9,12 @@
 
 ## API for Quotes📑 in JSON and rendered SVG form - Use it anywhere on GitHub, Your Website or wherever you like✨
 
-## How to use
+## 🤔 Why?
+To encourage students of [`RTU`](https://www.rtu.ac.in/index/) to contribute towards open source and help the communtiy grow.
+For more info watch out session on Hacktoberfest
+### [`Youtube Video 🡕`](https://www.youtube.com/watch?v=W1xXTcPMy8k&ab_channel=GDSCRTU)
+
+## 📃 How to use
 
 In your GitHub readme
 
