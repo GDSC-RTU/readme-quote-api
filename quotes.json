@@ -1817,7 +1817,7 @@
   },
   {
     "quote": "Being happy never goes out of style.",
-    "author": "Lilly Pulitzer"
+    "author": " Lilly Pulitzer"
   },
   {
     "quote": "Racing drivers have balls, unfortunately, none of them are crystal.",
@@ -1890,5 +1890,9 @@
   {
     "quote": "If everything seems under control, you’re not going fast enough.",
     "author": "Mario Andretti"
-  }
+  },
+  {
+    "quote" : "Every thought of yours is a real thing - a force.",
+    "author" : "Prentice Mulford"
+  }  
 ]
