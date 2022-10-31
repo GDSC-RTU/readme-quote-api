@@ -36,6 +36,10 @@
     "author": "Florence Nightingale"
   },
   {
+    "quote": "There is nothing impossible to they who will try.",
+    "author": "Alexander The Great"
+  },
+  {
     "quote": "You miss 100% of the shots you don’t take.",
     "author": "Wayne Gretzky"
   },
@@ -1894,6 +1898,7 @@
   {
     "quote" : "Every thought of yours is a real thing - a force.",
     "author" : "Prentice Mulford"
+
   } ,
   {
     "quote":"Life is tough my darling, but so are you.",
@@ -1902,7 +1907,14 @@
   {
     "quote":"Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
     "author":"Stephen King"
+ 
+  
+  
+
+  },
+  {
+    "quote" : "Let time prevail itself",
+    "author" : "Aman mawar"
   }
-  
-  
+
 ]

@@ -32,12 +32,16 @@ In html
 
 **Base URL** - https://readme-quote-api.vercel.app/
 
-| EndPoint         | Returns                                            |
-| ---------------- | -------------------------------------------------- |
-| /                | Hello Page in API                                  |
-| /quote           | A random quote in rendered SVG form                |
-| /quote?type=json | Quote in json format                               |
-| /all             | All quotes in JSON format within a single response |
+| EndPoint                | Returns                                                       |
+| ----------------------- | ------------------------------------------------------------- |
+| /                       | Hello Page in API                                             |
+| /quote                  | A random quote in rendered SVG form                           |
+| /quote?textColor=242b2e | Hex color for the card text                                   |
+| /quote?bgColor=fff      | Hex color for the card background                             |
+| /quote?borderColor=f00d | Hex color for the card border                                 |
+| /quote?hideBorder=false | Boolean indicating whether the border should be hidden or not |
+| /quote?type=json        | Quote in json format                                          |
+| /all                    | All quotes in JSON format within a single response            |
 
 ## Contribution Guidelines
 
